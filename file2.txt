@@ -1,0 +1,4 @@
+<br> It makes collaboration safer and cleaner by allowing changes to be tested and merged when ready.
+<br> Git branching allows developers to create independent paths of development within the same repository.
+<br> Each branch can be used to work on a feature, bug fix, or experiment without disturbing the main branch.
+<br> Once the work is stable, branches can be merged back to keep the codebase organized and collaborative.
